@@ -18,7 +18,7 @@ import java.util.*
 class modelView: ViewModel(){
     val count: MutableLiveData<String> = MutableLiveData()
 
-
+//---->
     fun doCount(minutes: Int, seconds: Int) {
 
         val longMinutes = minutes * 60000
