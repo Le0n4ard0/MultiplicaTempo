@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524795975843",
+    "project_id": "multiplicatemp",
+    "storage_bucket": "multiplicatemp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524795975843:android:31c9c3b7648dbec7c94716",
+        "android_client_info": {
+          "package_name": "com.multiplicatemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524795975843-mm9tv7horiaisr8e0dtkoauh720qo60k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDICHW6O_kzKOOgSHjtk0U9bHdHQ9vuSTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524795975843-mm9tv7horiaisr8e0dtkoauh720qo60k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
